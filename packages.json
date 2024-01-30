@@ -1,14 +1,5 @@
 [
   {
-    "package": "jjmR",
-    "url": "https://github.com/SPRFMO/jjmr"
-  },
-  {
-    "package": "FLjjm",
-    "url": "https://github.com/SPRFMO/FLjjm"
-  },
-
-  {
     "package": "FLCore",
     "url": "https://github.com/flr/FLCore"
   },
@@ -19,13 +10,23 @@
   },
 
   {
+    "package": "FLFishery",
+    "url": "https://github.com/flr/FLFishery"
+  },
+
+  {
+    "package": "FLasher",
+    "url": "https://github.com/flr/FLasher"
+  },
+
+  {
     "package": "FLBRP",
     "url": "https://github.com/flr/FLBRP"
   },
   
   {
-    "package": "FLFishery",
-    "url": "https://github.com/flr/FLFishery"
+    "package": "FLSRTMB",
+    "url": "https://github.com/flr/FLSRTMB"
   },
 
   {
@@ -37,14 +38,13 @@
     "package": "mseviz",
     "url": "https://github.com/flr/mseviz"
   },
-  
+
   {
-    "package": "FLSRTMB",
-    "url": "https://github.com/flr/FLSRTMB"
+    "package": "jjmR",
+    "url": "https://github.com/SPRFMO/jjmr"
   },
-  
   {
-    "package": "FLasher",
-    "url": "https://github.com/flr/FLasher"
+    "package": "FLjjm",
+    "url": "https://github.com/SPRFMO/FLjjm"
   }
 ]
