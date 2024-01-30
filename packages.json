@@ -1,10 +1,50 @@
 [
-    {
-        "package": "jjmR",
-        "url": "https://github.com/SPRFMO/jjmr"
-    },
-    {
-        "package": "FLjjm",
-        "url": "https://github.com/SPRFMO/FLjjm"
-    }
+  {
+    "package": "jjmR",
+    "url": "https://github.com/SPRFMO/jjmr"
+  },
+  {
+    "package": "FLjjm",
+    "url": "https://github.com/SPRFMO/FLjjm"
+  },
+
+  {
+    "package": "FLCore",
+    "url": "https://github.com/flr/FLCore"
+  },
+
+  {
+    "package": "ggplotFL",
+    "url": "https://github.com/flr/ggplotFL"
+  },
+
+  {
+    "package": "FLBRP",
+    "url": "https://github.com/flr/FLBRP"
+  },
+  
+  {
+    "package": "FLFishery",
+    "url": "https://github.com/flr/FLFishery"
+  },
+
+  {
+    "package": "mse",
+    "url": "https://github.com/flr/mse"
+  },
+  
+  {
+    "package": "mseviz",
+    "url": "https://github.com/flr/mseviz"
+  },
+  
+  {
+    "package": "FLSRTMB",
+    "url": "https://github.com/flr/FLSRTMB"
+  },
+  
+  {
+    "package": "FLasher",
+    "url": "https://github.com/flr/FLasher"
+  }
 ]
