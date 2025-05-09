@@ -1,5 +1,10 @@
 [
   {
+    "package": "TAF",
+    "url": "https://github.com/ices-tools-prod/TAF"
+  },
+
+  {
     "package": "FLCore",
     "url": "https://github.com/flr/FLCore"
   },
