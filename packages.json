@@ -49,8 +49,14 @@
     "package": "jjmR",
     "url": "https://github.com/SPRFMO/jjmr"
   },
+
   {
     "package": "FLjjm",
     "url": "https://github.com/SPRFMO/FLjjm"
+  },
+
+  {
+    "package": "Slick",
+    "url": "https://github.com/Blue-Matter/Slick/"
   }
 ]
