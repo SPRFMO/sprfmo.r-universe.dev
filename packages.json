@@ -39,7 +39,12 @@
     "url": "https://github.com/flr/mse",
     "branch" : "est_flstocks"
   },
-  
+   
+  {
+    "package": "msemodules",
+    "url": "https://github.com/flr/msemodules"
+  },
+ 
   {
     "package": "mseviz",
     "url": "https://github.com/flr/mseviz"
