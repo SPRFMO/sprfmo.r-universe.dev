@@ -62,5 +62,11 @@
   {
     "package": "Slick",
     "url": "https://github.com/Blue-Matter/Slick/"
+  },
+
+  {
+    "package": "spict",
+    "url": "https://github.com/iagomosqueira/spict",
+    "subdir": "spict"
   }
 ]
